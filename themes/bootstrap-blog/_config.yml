@@ -18,9 +18,9 @@ widgets:
 - archive
 - recent_posts
 about_widget_content: >
-  <p>Etiam porta <em>sem malesuada magna</em> mollis euismod.
-  Cras mattis consectetur purus sit amet fermentum. Aenean
-  lacinia bibendum nulla sed consectetur.</p>
+  <p>Welcome to MST Zone! </p>
+  <p>我，Coyote-z，在校大学生，目标是技术超过计算机专业学生，同时经管知识不输工商专业。</p>
+  <p>个人博客主要是记录本人的学习历程，经管知识、编程技术，以及我的个人学习感想。</p>
 
 # widget behavior
 archive_type: 'monthly'

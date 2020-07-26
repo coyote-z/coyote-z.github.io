@@ -4,12 +4,12 @@
 
 # Site
 title: MST Zone
-subtitle: ''
-description: ''
-keywords:
+subtitle: Enjoy myself on my zone
+description: MST Zone，Coyote-z的个人博客，记录每天编程和经管的学习过程和学习心得、对生活的各种吐槽
+keywords: 计算机技术 经济管理
 author: Coyote-z
 language: zh-CN
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
